@@ -8,6 +8,8 @@ image: /assets/images/posts/oh-nanoko-no-ana.png
 
 [![La niña de las grietas](@@baseUrl@@/assets/images/posts/oh-nanoko-no-ana2.png)]()
 
+Agradecimientos a [Mundo Creepy](https://www.youtube.com/c/mundocreepy/featured) por los screenshot y la inspiración.
+
 ## La niña de las grietas
 
 💀País de origen: Corea 💀
