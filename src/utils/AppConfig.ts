@@ -1,10 +1,10 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Next.js Boilerplate',
+  site_name: 'Diary Of A Hunter',
+  title: 'Diario de un cazador',
   description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
+    'Una pequeña ayuda para los cazadores que están iniciando en esta forma de vida.',
   url: 'https://example.com',
-  locale: 'en',
-  author: 'Anonymous',
+  locale: 'es',
+  author: 'JBG',
   pagination_size: 5,
 };
