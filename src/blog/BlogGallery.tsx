@@ -22,7 +22,7 @@ const BlogGallery = (props: IBlogGalleryProps) => (
             </a>
           </Link>
 
-          <div className='text-right'>
+          <div className="text-right">
             <h2>{elt.description}</h2>
           </div>
 
