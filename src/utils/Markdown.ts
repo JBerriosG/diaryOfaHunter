@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 // TODO: @mapbox/rehype-prism does not have typescript definition
 // @ts-ignore
 import rehypePrism from '@mapbox/rehype-prism';

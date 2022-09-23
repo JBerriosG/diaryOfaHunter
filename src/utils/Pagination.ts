@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export function convertTo2D<T>(arr: T[], size: number) {
   const res: T[][] = [];
 

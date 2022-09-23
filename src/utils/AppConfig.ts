@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export const AppConfig = {
   site_name: 'Diary Of A Hunter',
   title: 'Diario de un cazador',

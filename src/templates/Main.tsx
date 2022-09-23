@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { ReactNode } from 'react';
 
 import Link from 'next/link';
