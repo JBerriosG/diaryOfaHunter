@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 module.exports = {
   content: ['./src/**/*.{js,ts,jsx,tsx}', './_posts/**/*.md'],
   theme: {
@@ -38,6 +39,9 @@ module.exports = {
           900: '#2a4365',
         },
       },
+      backgroundImage: {
+        'texture': "url('https://bokuryudojobucket.s3.sa-east-1.amazonaws.com/papiro_paper.jpg')",
+      }
     },
   },
   variants: {},

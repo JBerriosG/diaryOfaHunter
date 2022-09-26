@@ -16,6 +16,10 @@ Agradecimientos a [Mundo Creepy](https://www.youtube.com/c/mundocreepy/featured)
 
 👻Tipo: Ente espectral 👻
 
+Debilidad: Hierro y sal
+
+
+
 Descripción: Se piensa que puede ser un espectro muy enojado, o algun tipo de ente demoniaco o de otra dimension. La verdad es que esas descripciones no estan muy lejos de la realidad. Oh nanoko no ana pasa a ser un ente espectral por lo que posee las vulnerabilidades de los espectros. Lo primero que deben saber es que ella vive en los espacios entre muebles, entre las paredes, la primera ves que te la encuentres será porque ella misma llamará tu atención para que la mires, esta de sobra decir que debes evitar hacer contacto visual con ella, ya que en ese momento ella sabra que lo hiciste y te pedira que juegues un juego de escondidas con ella. El juego comienza contigo escondiendote de ella y como sabras es dificil engañar a la experta en escondites por lo que perderas muy rapido, pero, esto no acaba aqui, ya que cuando te atrapa pasa a ser tu turno de buscarla, esta etapa del juego puede durar mucho, tanto que casi te volveras loco, pero eso no es lo peor, ya que cuando la logres encontrar te arrastrara con ella, algunos dicen que al infierno, otros dicen que a una dimensión creada por ella. No existe final feliz con ella, ya que si te niegas a jugar la primera ves que te la encontraste sufriras el mismo destino, el jugar con ella solo te dara algo de tiempo para pensar en que hacer o despedirte de tus seres queridos.
 
 [![La niña de las grietas](@@baseUrl@@/assets/images/posts/oh-nanoko-no-ana.png)]()

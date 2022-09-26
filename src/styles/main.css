@@ -1,5 +1,11 @@
 @tailwind base;
 
+html{
+  @apply bg-texture;
+  @apply italic;
+  @apply font-serif;
+}
+
 a {
   @apply text-blue-700;
 }
