@@ -16,7 +16,7 @@ Agradecimientos a [Mundo Creepy](https://www.youtube.com/c/mundocreepy/featured)
 
 👻Tipo: Ente espectral 👻
 
-Debilidad: Hierro y sal
+☠️Debilidad: Hierro y sal ☠️
 
 
 
