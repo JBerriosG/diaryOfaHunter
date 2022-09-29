@@ -15,7 +15,7 @@ const About = () => (
         esto cuando empecé me habría ayudado mucho.
       </p>
       <p>
-        Trataré de que hayan publicaciones al menos 3 veces por semana, y ya
+        Trataré de que hayan publicaciones al menos 1 vez por semana, y ya
         veremos mas adelante si es posible ir subiendo mas blogs por semana.
       </p>
     </Content>
