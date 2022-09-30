@@ -1,8 +1,8 @@
 ---
 title: 'Wendigo'
 description: 'Origen Norte Americano'
-date: '2022-09-30'
-modified_date: '2022-09-30'
+date: '2022-09-29T00:00:00'
+modified_date: '2022-09-29T00:00:00'
 image: /assets/images/posts/wendigo_1.png
 ---
 
