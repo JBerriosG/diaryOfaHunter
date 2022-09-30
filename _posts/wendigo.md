@@ -20,12 +20,12 @@ Agradecimientos a [Mundo Creepy](https://www.youtube.com/c/mundocreepy/featured)
 
 
 
-# Descripción: 
+### Descripción: 
 Existen muchas leyendas sobre el wendigo, pero la mas acertada, es aquella que nos cuenta, como un viajero estando perdido tuvo que recurrir al canibalismo para poder sobrevivir y debido a esto fue castigado por el espiritu de la montaña y convertido en este mounstro con grandes garras y la cabeza como un si llevase un craneo de ciervo con grandes cuernos y condenado a seguir alimentandose de carne humana. El wendigo es muy agil, muy fuerte y tiene la capacidad de imitar las voces humanas para atraer a sus víctimas.
 
 [![wendigo](@@baseUrl@@/assets/images/posts/wendigo_2.png)]()
 
-### Anecdota
+## Anecdota
 
 Hermoso día de invierno, un día como cualquier otro, me levanté, hice mi desayuno, me relaje frente a la chimenea mientras comenzaba a organizar mis tareas para el resto del laburo. Era un día tranquilo o eso pensaba hasta que tocaron a mi puerta, por la forma en que tocaban me pude percatar que tenían mucha prisa o urgencia, por lo que me apresure a abrir. Como buen cazador con experiencia y conocido ya por cazadores y mounstros, nunca debe abrirse la puerta desarmado y siempre se debe estar alerta, por lo que tome mi ninjato y shurikens forjados con aleacion de plata, nunca se sabe que puede esperarte tras la puerta. Afortunadamente era un viejo amigo, Charly, hace mucho no lo veia por estos rumbos, pero como dije antes, hay que ser precavidos por lo que lo rocie con agua bendita para comprobar que no fuera un demonio, lo toque con mi ninjato en la piel para verificar que no fuera un hombre lobo o transformador u algun otro tipo de mounstro que fuese debil a este metal, hice algunas otras pruebas mas pero se las contaré en otra ocación cuando amerite la ocación. Posteriormente lo deje pasar y tuvimos una corta conversación. Me indicó que se encontraba en la ciudad porque muy cerca aquí, mas especificamente en el pueblo de junto habían sucedido una serie de desapariciones y el había notado el patron, por lo que fue a investigar y averiguó que todas las evidencias apuntaban a lo que en norte america conocemos como Wendigo. 
 
