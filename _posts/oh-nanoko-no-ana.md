@@ -1,8 +1,8 @@
 ---
 title: 'Oh nanoko no ana'
 description: 'Origen Coreano'
-date: '2022-09-23'
-modified_date: '2022-09-23'
+date: '2022-09-24'
+modified_date: '2022-09-24'
 image: /assets/images/posts/oh-nanoko-no-ana.png
 ---
 
