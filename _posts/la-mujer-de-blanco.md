@@ -49,5 +49,4 @@ La Llorona retrocedió, herida y confundida. Rafael aprovechó la oportunidad pa
 [![La Llorona](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco3.png)]()
 Después de esa noche, Rafael se sintió más seguro de sí mismo. Había cazado a una de las criaturas más peligrosas de la región y había sobrevivido. Sabía que aún quedaban muchos peligros en el mundo, pero también sabía que tenía las herramientas para enfrentarlos.
 
-
-Luego de eso terminamos llevando la caja a un lugar muy lejano, en un salar y la enterramos profundo para que nadie la encuentre ni la libere. La verdad es que "Oh nanoko no ana" es parte de un grupo de entes espectrales, por lo que haber detenido a está no quiere decir que no puedan existir mas, por eso les recomiendo lo mismo de antes, si escuchan una voz proveniente de algun rincon de sus casas no volteen a mirar, si no tienen el primer encuentro con ella no tendrán que jugar su juego. Y siempre tengan sal y hierro en todas partes para que no pueda entrar por ningún lugar. Seguiremos hablando mas de este mundo en el proximo archivo, se despide su amigo cazador JBG.
+Seguiremos hablando mas de este mundo en el proximo archivo, se despide su amigo cazador JBG.
