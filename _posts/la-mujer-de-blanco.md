@@ -47,7 +47,7 @@ La Llorona empezó a caminar hacia él, con pasos lentos y arrastrados. El sonid
 
 La Llorona retrocedió, herida y confundida. Rafael aprovechó la oportunidad para disparar su rifle y acabar con ella de una vez por todas.
 
-[<img alt="La Llorona" height="1000" src="../assets/images/posts/la-mujer-de-blanco3.png" width="1000"/>]()
+[<img alt="La Llorona" height="1000" src="/assets/images/posts/la-mujer-de-blanco3.png" width="1000"/>]()
 
 Después de esa noche, Rafael se sintió más seguro de sí mismo. Había cazado a una de las criaturas más peligrosas de la región y había sobrevivido. Sabía que aún quedaban muchos peligros en el mundo, pero también sabía que tenía las herramientas para enfrentarlos.
 
