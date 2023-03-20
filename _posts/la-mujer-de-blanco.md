@@ -1,14 +1,14 @@
 ---
 title: 'La mujer de blanco'
 description: 'Origen Multiple'
-date: '2022-09-23T00:00:00'
-modified_date: '2022-09-23T00:00:00'
-image: /assets/images/posts/oh-nanoko-no-ana.png
+date: '2023-03-19T00:00:00'
+modified_date: '2023-03-20T00:00:00'
+image: /assets/images/posts/la-mujer-de-blanco.png
 ---
 
-[![La niña de las grietas](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco.png)]()
+[![La Llorona](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco.png)]()
 
-Agradecimientos a [Mundo Creepy](https://www.youtube.com/c/mundocreepy/featured) por los screenshot y la inspiración.
+Agradecimientos a [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) por los screenshot y la inspiración.
 
 ## La Llorona
 
