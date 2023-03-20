@@ -6,7 +6,9 @@ modified_date: '2022-09-23T00:00:00'
 image: /assets/images/posts/oh-nanoko-no-ana.png
 ---
 
-[![La niña de las grietas](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco.png)]()
+<p style="text-align:center;">
+    [![La niña de las grietas](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco.png)]()
+</p>
 
 Agradecimientos a [Mundo Creepy](https://www.youtube.com/c/mundocreepy/featured) por los screenshot y la inspiración.
 
