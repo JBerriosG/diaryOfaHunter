@@ -46,7 +46,9 @@ La figura se levantó y lo miró directamente a los ojos. Rafael no flaqueó, sa
 La Llorona empezó a caminar hacia él, con pasos lentos y arrastrados. El sonido de sus lágrimas era ensordecedor. Rafael levantó su rifle, pero La Llorona lo detuvo con una mano. Sin embargo, Rafael no se rindió. Con su cuchillo de hierro le cortó la mano que lo detenía y le arrojó sal a los ojos, lo que le hizo gritar de dolor.
 
 La Llorona retrocedió, herida y confundida. Rafael aprovechó la oportunidad para disparar su rifle y acabar con ella de una vez por todas.
-[![La Llorona](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco3.png)]()
+
+[<img alt="La Llorona" height="1000" src="@@baseUrl@@/assets/images/posts/la-mujer-de-blanco3.png" width="1000" style="justify-self:center"/>]()
+
 Después de esa noche, Rafael se sintió más seguro de sí mismo. Había cazado a una de las criaturas más peligrosas de la región y había sobrevivido. Sabía que aún quedaban muchos peligros en el mundo, pero también sabía que tenía las herramientas para enfrentarlos.
 
 Seguiremos hablando mas de este mundo en el proximo archivo, se despide su amigo cazador JBG.
