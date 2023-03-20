@@ -6,7 +6,7 @@ modified_date: '2023-03-20T00:00:00'
 image: /assets/images/posts/la-mujer-de-blanco.png
 ---
 
-[![La Llorona](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco.png)]()
+![La Llorona](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco.png)
 
 Agradecimientos a [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) por los screenshot y la inspiración.
 
@@ -23,7 +23,7 @@ Agradecimientos a [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fa
 ### Descripción:
 La mujer de blanco o más conocida como la llorona tiene múltiples orígenes, algunos dicen que pueden haber aparecido en méxico por primera vez, otros dicen que su origen es más al norte en los EEUU y unos tantos dicen que su origen es más al sur en Chile. La verdad es que todos están en lo correcto y a su vez en un error, esto se debe a que en realidad la mujer de blanco es un tipo de espectro, todos ellos tienen el mismo origen o muy similar al menos. Se trata de mujeres que fueron víctimas de infidelidad por parte de sus maridos y al enterarse, sufrieron de locura momentánea, provocando así que dieran muerte a sus hijos, ahogando a estos últimos en un río, lago, mar o incluso bañera, para finalmente suicidarse al darse cuenta lo que habían hecho, y es por esto que vagan por la localidad en la que hayan muerto en busca de sus hijos a los que ellas mismas dieron muerte, pero en realidad lo que buscan son hombres infieles para acabar con ellos por lo que les hicieron sus maridos en vida.
 
-[![La Llorona](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco2.png)]()
+![La Llorona](@@baseUrl@@/assets/images/posts/la-mujer-de-blanco2.png)
 
 ## Anecdota
 
